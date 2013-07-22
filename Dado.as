@@ -1,0 +1,1 @@
+﻿class Dado {	private var _number;		public function Dado() {	}	public function tirar():Number {		this._number = Math.round(Math.random()*(6-1) + 1);		return this._number;	}	public function valor():Number {		return this._number;	}}

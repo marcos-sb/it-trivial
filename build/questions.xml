@@ -1,0 +1,1833 @@
+<deck>
+<yellow>
+<question>
+<text>In a digital system, data are represented</text>
+<answer1>as continuos wave forms</answer1>
+<answer2>in a discrete format</answer2>
+<answer3>It does not matter how data are represented</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does 'digitalize' mean?</text>
+<answer1>Convert analog to digital format</answer1>
+<answer2>Convert yourself to a digital machines' fan</answer2>
+<answer3>Convert digital to analog format</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'ASCII'?</text>
+<answer1>American Special Code for Information Interchange</answer1>
+<answer2>American Standard College for Information and Investigation</answer2>
+<answer3>American Standard Code for Information Interchange</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The ANSI encoding system is used by</text>
+<answer1>Linux applications</answer1>
+<answer2>Windows applications</answer2>
+<answer3>Macintosh applications</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'bus'?</text>
+<answer1>Mean of transport to get to the University</answer1>
+<answer2>Circuit board on which elctronic circuitry, microprocessor and memory chips are installed</answer2>
+<answer3>Path over which signals flow to carry instructions among the control unit, ALU and internal memory</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>A circuit board on which elctronic circuitry, microprocessor and memory chips are installed is a </text>
+<answer1>motherboard</answer1>
+<answer2>chipset</answer2>
+<answer3>device controller</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A path over which signals flow to carry instructions among the control unit, ALU and internal memory is a </text>
+<answer1>chipset</answer1>
+<answer2>bus</answer2>
+<answer3>device controller</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The microprocessor Pentium II is </text>
+<answer1>more advanced and faster than Pentium PRO microprocessor</answer1>
+<answer2>less advanced and slower than Pentium microprocessor</answer2>
+<answer3>less advanced and slower than Pentium PRO microprocessor
+</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Celeron microprocessors are </text>
+<answer1>a line of Intel microprocessors designed for low-cost PCs</answer1>
+<answer2>a family of microprocessors designed to better accommodate multimedia applications</answer2>
+<answer3>Intel's more expensive chip which offers the greatest performance</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'CPU' mean?</text>
+<answer1>Control Processing Unit</answer1>
+<answer2>Code Processing Unit</answer2>
+<answer3>Central Processing Unit</answer3>
+<correct>3</correct>
+</question>
+	
+<question>
+<text>The control unit </text>
+<answer1>reads and interprets program instructions and directs operation of processor</answer1>
+<answer2>controls data flow in and out of RAM</answer2>
+<answer3>performes both actions</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The program register is 	</text>
+<answer1>the register that contains the instruction being executed</answer1>
+<answer2>the register that contains the address of the next instruction to be executed </answer2>
+<answer3>the register in which the result of an arithmetic or logic operation is formed</answer3>
+<correct>2</correct>
+</question>
+	
+<question>
+<text>What is the meaning of 'SIMMs'?</text>
+<answer1>Single In-line Memory Modules</answer1>
+<answer2>Simple In-line Memory Modules</answer2>
+<answer3>Simple In-line Memory Masters</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The high-speed holding area for programs and data which increases throughput is </text>
+<answer1>the RAM</answer1>
+<answer2>the volatile memory</answer2>
+<answer3>the cache memory</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'PROM' mean?</text>
+<answer1>Perfect Reseteable Only Memory</answer1>
+<answer2>Perfect Read Only Memory</answer2>
+<answer3>Programmable Read Only Memory</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>In a processor with pipelining </text>
+<answer1>another instruction can be executed before the current one is completed</answer1>
+<answer2>the previous instruction has always to be executed before the next one begins to execute</answer2>
+<answer3>instructions must be executed one by one</answer3>
+<correct>1</correct>
+</question>
+	
+<question>
+<text>What is the meaning of 'USB'?</text>
+<answer1>Universal Simple Board</answer1>
+<answer2>Universal Simple Bus</answer2>
+<answer3>Universal Serial Bus</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is a 'Fire Wire'?</text>
+<answer1>The Windows version of the 1394 bus</answer1>
+<answer2>The Apple version of the 1394 bus</answer2>
+<answer3>The Linux version of the 1394 bus</answer3>
+<correct>2</correct>
+</question>
+	
+<question>
+<text>A serial port is </text>
+<answer1>an interface for peripheal devices which accept data transmission one bit at a time</answer1>
+<answer2>an interface for peripheal devices which accept data transmission several bits at a time</answer2>
+<answer3>an interface to connect several PCs as a net</answer3>
+<correct>1</correct>
+</question>
+ 
+<question>
+<text>What does 'GPS' mean?</text>
+<answer1>General Positioning System</answer1>
+<answer2>Global Positioning System </answer2>
+<answer3>Global Positioning Search </answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following terms has nothing to do with the geometry of magnetic disks?</text>
+<answer1>Cylinders</answer1>
+<answer2>Tracks</answer2>
+<answer3>Pits</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>In a Windows environment, the information about the clusters in a disk is stored in the</text>
+<answer1>VFAT</answer1>
+<answer2>Kernel</answer2>
+<answer3>Swap file</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A double-layered, double-sided DVD can store up to...</text>
+<answer1>8.5 GB</answer1>
+<answer2>4.7 GB</answer2>
+<answer3>17 GB</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does TPI stand for?</text>
+<answer1>Theoretical Performance Index</answer1>
+<answer2>Tracks Per Inch</answer2>
+<answer3>Throughput Per Instruction</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of these terms does NOT define a monitor?</text>
+<answer1>Resolution</answer1>
+<answer2>Dot Pitch</answer2>
+<answer3>Access Time</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The traditional keyboard layout is called...</text>
+<answer1>AZERTY</answer1>
+<answer2>QWERTY</answer2>
+<answer3>QWERTZ</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which three colours does a monitor mix in order to create images?</text>
+<answer1>Cyan, magenta and yellow</answer1>
+<answer2>Red, green and blue</answer2>
+<answer3>Black, blue and pink</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is a smart card?</text>
+<answer1>A card with an embedded microprocessor</answer1>
+<answer2>A card capable of answering user's questions</answer2>
+<answer3>A card containing an electronic dictionary</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A 'write once read many' DVD is called</text>
+<answer1>DVD-RAM</answer1>
+<answer2>DVD-R</answer2>
+<answer3>DVD-RW</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does CRT stand for?</text>
+<answer1>Cathode Ray Tube</answer1>
+<answer2>Cylinder Retention Timeout</answer2>
+<answer3>Classic Raytracing Technology</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the dot pitch?</text>
+<answer1>A dot mapped 3D image</answer1>
+<answer2>The distance between adjacent pixels on a display</answer2>
+<answer3>A computer dot-product performance</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does OCR stand for?</text>
+<answer1>Online Compact Recorder</answer1>
+<answer2>Optical Character Recognition</answer2>
+<answer3>On-Channel Repeater</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>How many keys does a typical keyboard have?</text>
+<answer1>99</answer1>
+<answer2>105</answer2>
+<answer3>101</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT a magnetic media?</text>
+<answer1>DVD-RAM</answer1>
+<answer2>Zip Disk</answer2>
+<answer3>HiFD Disk</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A handheld OCR scanner is called...</text>
+<answer1>Miniscanner</answer1>
+<answer2>Wand scanner</answer2>
+<answer3>Portable scanner</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following mechanisms is NOT present in a hard drive?</text>
+<answer1>Lenses</answer1>
+<answer2>Read/write heads</answer2>
+<answer3>Accedss Arms</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does VRAM stand for?</text>
+<answer1>Value RAM</answer1>
+<answer2>Video RAM</answer2>
+<answer3>Volatile RAM</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following is another way of referring to a hard disk?</text>
+<answer1>Fixed disk</answer1>
+<answer2>Floppy disk</answer2>
+<answer3>Floptical disk</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does pixel stand for?</text>
+<answer1>Pictographic Element</answer1>
+<answer2>Picked Element</answer2>
+<answer3>Picture Element</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Whick of the following is NOT a kind of printer?</text>
+<answer1>Ink-jet</answer1>
+<answer2>Laser</answer2>
+<answer3>Magnetoresistive</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Disk caching is useful for...</text>
+<answer1>Increasing speed</answer1>
+<answer2>Decreasing fragmentation</answer2>
+<answer3>Avoiding data corruption</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which was the most popular OS through the 1980s?</text>
+<answer1>MS-DOS</answer1>
+<answer2>BASIC</answer2>
+<answer3>AmigaOS</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which of the following versions of Windows is considered the most stable?</text>
+<answer1>Windows 98</answer1>
+<answer2>Windows ME</answer2>
+<answer3>None of the previous answers</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'XP' in Windows XP mean?</text>
+<answer1>eXPerience</answer1>
+<answer2>eXtremely Powerful</answer2>
+<answer3>eXtended PnP</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which are the 'flavours' of Windows XP?</text>
+<answer1>Home and Server</answer1>
+<answer2>Professional and Advanced Server</answer2>
+<answer3>Home and Professional</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT a Linux distribution?</text>
+<answer1>Mandriva</answer1>
+<answer2>Panther</answer2>
+<answer3>Fedora</answer3>
+<correct>2</correct>
+</question>
+</yellow>
+<pink>
+<question>
+<text>What is the meaning of 'ISDN'?</text>
+<answer1>Integrated Services Digital Network</answer1>
+<answer2>Integrated Switched Digital Network</answer2>
+<answer3>Integrated Services Data Network</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A data transmission medium that carries data in the form of light in   very thin transparent fibers is</text>
+<answer1> a coaxial cable</answer1>
+<answer2> a fiber optic cable</answer2>
+<answer3> a Digital Subscriber Line (DSL)</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'WAN'?</text>
+<answer1>World Area Network</answer1>
+<answer2>West American Network</answer2>
+<answer3>Wide Area Network</answer3>
+<correct>3</correct>
+</question>
+	
+<question>
+<text>What is the 'bandwidth'?</text>
+<answer1>The channel capacity of a communication channel</answer1>
+<answer2>The amount of information that the CPU can process</answer2>
+<answer3>The speed of data transmission</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'DSL' mean?</text>
+<answer1>Digital Safe Line</answer1>
+<answer2>Digital Subscriber Line</answer2>
+<answer3>Digital Simple Line</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Microwave signals are</text>
+<answer1> low-frequency line-of-sight electromagnetic waves</answer1>
+<answer2> medium-frequency line-of-sight electromagnetic waves</answer2>
+<answer3> high-frequency line-of-sight electromagnetic waves</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'common carrier' mean?</text>
+<answer1>A company that provides channels for data transmission</answer1>
+<answer2>A coaxial cable to interconnect several computers</answer2>
+<answer3>A coaxial cable to connect peripheral devices to the CPU</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A dial-up line is also called</text>
+<answer1> private line</answer1>
+<answer2> switched line</answer2>
+<answer3> leased line</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A private line is the same as</text>
+<answer1> a dial-up line</answer1>
+<answer2> a switched line</answer2>
+<answer3> a leased line</answer3>
+<correct>3</correct>
+</question>
+	
+<question>
+<text>What is the meaning of 'TCP'?</text>
+<answer1>Transport Control Protocol</answer1>
+<answer2>Transmission Control Protocol</answer2>
+<answer3>Technical Control Protocol</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The device that converts digital signals into analog signals so data can be transmitted over telephone lines is a</text>
+<answer1> modem</answer1>
+<answer2> router</answer2>
+<answer3> multiplexor</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A computer network that permits the connetion of terminals, peripheral devices, and microcomputers along an open-ended central cable is a</text>
+<answer1> ring topology</answer1>
+<answer2>  star topology</answer2>
+<answer3> bus topology</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>A data network designed for use within the confines of a town or city is a</text>
+<answer1>LAN</answer1>
+<answer2>MAN</answer2>
+<answer3>WAN</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A dedicated computer system with high-capacity disk for storing the data and programs shared by the users on a local area network is called</text>
+<answer1> a file server</answer1>
+<answer2> a program server</answer2>
+<answer3> a net server</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A router is</text>
+<answer1> a device that enable commucations links between two terminals of a network</answer1>
+<answer2> a device to acces the Internet</answer2>
+<answer3> communication hardware that enable communications links between LANs and WANs by performing the neccesary protocol conversions</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>An electronic identifier assigned to each computer system and terminal in a computer network is</text>
+<answer1> the computer identifier</answer1>
+<answer2> the network address</answer2>
+<answer3> the serial number</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'telecommunications'?</text>
+<answer1>The collection and distribution of the electronic representation of information between two points</answer1>
+<answer2>The collection and distribution of the information between two distant countries</answer2>
+<answer3>The distribution of the information all over the world</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A coaxial cable is used to</text>
+<answer1> transmit information from Internet through a telephone line</answer1>
+<answer2> transmit audio data from computer to loudspeakers</answer2>
+<answer3> transmit data between computers and between computers and peripheral devices</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'IP' mean?</text>
+<answer1>Internet Password</answer1>
+<answer2>Internet Protocol</answer2>
+<answer3>Internet Permission</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'LAN'?</text>
+<answer1>Local Access Network</answer1>
+<answer2>Local Access Number</answer2>
+<answer3>Local Area Network</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Wi-Fi is based on the communications standard called...</text>
+<answer1>IEEE 754</answer1>
+<answer2>IEEE 802.11x</answer2>
+<answer3>IEEE 1394</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does DSL stand for?</text>
+<answer1>Digital Syncronous Line</answer1>
+<answer2>Digital Subscriber Line</answer2>
+<answer3>Digital and Secure Logon</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The project genesis of the Internet was called</text>
+<answer1>ARPANET</answer1>
+<answer2>SUBNET</answer2>
+<answer3>FIDONET</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is a macro virus?</text>
+<answer1>A virus written in the particular language of an application</answer1>
+<answer2>A megabyte sized virus</answer2>
+<answer3>A program composed of multiple viruses</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What type of file is a cookie?</text>
+<answer1>A text file</answer1>
+<answer2>An executable file</answer2>
+<answer3>A scripted virus</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What symbol separates the username and the domain name of an e-mail address?</text>
+<answer1>//</answer1>
+<answer2>#</answer2>
+<answer3>@</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of these communication channels has the higher bandwidth?</text>
+<answer1>DSL</answer1>
+<answer2>T3</answer2>
+<answer3>T1</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does URL mean?</text>
+<answer1>Upper Range Limit</answer1>
+<answer2>Uniform Resource Locator</answer2>
+<answer3>Unique Resource Location</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A dialup connection is made through...</text>
+<answer1>PPP</answer1>
+<answer2>POP</answer2>
+<answer3>SMTP</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Bandwidth is measured in...</text>
+<answer1>Bits per inch</answer1>
+<answer2>Bits per track</answer2>
+<answer3>Bits per second</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The protocol that enables secure transmission of data over the Web is called...</text>
+<answer1>CTD</answer1>
+<answer2>SSL</answer2>
+<answer3>RSI</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Where does the word Internet come from?</text>
+<answer1>INTERoceanic NETwork</answer1>
+<answer2>INTERconnected NETworks</answer2>
+<answer3>INTERnational NETworking</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Communication channels are rated by...</text>
+<answer1>Bandwidth</answer1>
+<answer2>Throughput</answer2>
+<answer3>Uptime</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the name of the main communications protocol in the Internet?</text>
+<answer1>OSI</answer1>
+<answer2>Token Ring</answer2>
+<answer3>TCP/IP</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>In order to logon to the Intenet, you usually need</text>
+<answer1>A user ID and a password</answer1>
+<answer2>A digital signature</answer2>
+<answer3>An e-mail address</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The scripting language used to compose most files on the Net is called</text>
+<answer1>VRML</answer1>
+<answer2>HTML</answer2>
+<answer3>UML</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is a 'portal' in the Internet?</text>
+<answer1>The main page of a community site</answer1>
+<answer2>Web sites that offer a wide variety of information and services</answer2>
+<answer3>A link to another network</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT a multimedia plugin for browsers?</text>
+<answer1>Real Player</answer1>
+<answer2>QuickTime</answer2>
+<answer3>Daedalus</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does IRC stand for?</text>
+<answer1>Internet Relay Chat</answer1>
+<answer2>Instant Remote Chating</answer2>
+<answer3>Interconnected Remote Computers</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is a logic bomb?</text>
+<answer1>A virus only made of boolean operations</answer1>
+<answer2>A set of instructions which executes when certain conditions are met</answer2>
+<answer3>A trojan horse hidden in educational software</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following is a technology-based crime?</text>
+<answer1>Cyberstalking</answer1>
+<answer2>Cumulative Trauma Disorder</answer2>
+<answer3>VODS</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The narrowband dialup access is available with</text>
+<answer1>DSL</answer1>
+<answer2>POTS</answer2>
+<answer3>ISDN</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which is the access method related to web pages?</text>
+<answer1>ftp</answer1>
+<answer2>ed2k</answer2>
+<answer3>http</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does FAQ mean?</text>
+<answer1>Finally Answered Questions</answer1>
+<answer2>Failing Abnormal Query</answer2>
+<answer3>Frequently Asked Questions</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of the following abbreviations is NOT a top-level domain?</text>
+<answer1>com</answer1>
+<answer2>es</answer2>
+<answer3>org</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which is the main advantage of IEEE 802.11a over IEEE 802.11b?</text>
+<answer1>Higher transimission rate</answer1>
+<answer2>Wider effective range</answer2>
+<answer3>Lower price</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which of the following terms does NOT refer to a problem associated with extended use of a PC?</text>
+<answer1>RSI</answer1>
+<answer2>EPA</answer2>
+<answer3>VODS</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Select the web browser with more security flaws:</text>
+<answer1>Safari</answer1>
+<answer2>Internet Explorer</answer2>
+<answer3>Firefox</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does P2P mean?</text>
+<answer1>Person To Person</answer1>
+<answer2>Peer To Peer</answer2>
+<answer3>Promove The Piracy</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The technique consisting on using a trojan horse to get small amounts of money from different accounts is called...</text>
+<answer1>Salami technique</answer1>
+<answer2>Chopped technique</answer2>
+<answer3>Bratswurt technique</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>When you illicitly use a still-opened session of an authorized user who has left the room you are...</text>
+<answer1>Tailgating</answer1>
+<answer2>Scavenging</answer2>
+<answer3>Masquerading</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The environmentally sensible computing is also called</text>
+<answer1>Green computing</answer1>
+<answer2>Gaia computing</answer2>
+<answer3>Flower power computing</answer3>
+<correct>1</correct>
+</question>
+</pink>
+<blue>
+<question>
+<text>On the Internet, the ability to post a message or visit web sites without divulging one's identity is known as</text>
+<answer1>anonymity</answer1>
+<answer2>hidden identity</answer2>
+<answer3>hidden personality</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A computer user obsessed with gaining entry into highly secure computer systems is called</text>
+<answer1>cracker</answer1>
+<answer2>hacker</answer2>
+<answer3>frikie</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'spam'?</text>
+<answer1>Service Provisioning and Account Management</answer1>
+<answer2>Unsolicited Internet information in your computer</answer2>
+<answer3>Unsolicited e-mail or newsgroup advertising</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'PKI' mean?</text>
+<answer1>Public Key Infrastructure</answer1>
+<answer2>Public Key Information</answer2>
+<answer3>Performance Key Indicators</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>An application disguised as a useful program but containing instructions to perform a malicious task is called</text>
+<answer1>virus</answer1>
+<answer2>Trojan horse</answer2>
+<answer3>worm</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>How is called an encryption key?</text>
+<answer1>Private key</answer1>
+<answer2>Public key</answer2>
+<answer3>Personal key</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A readable message before it is encrypted is called</text>
+<answer1>text message</answer1>
+<answer2>source message</answer2>
+<answer3>plaintext</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'EDI'?</text>
+<answer1>Electronic Data Interchange</answer1>
+<answer2>Electronic Document Imaging</answer2>
+<answer3>Electronic Data Interface</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A program that permits an organization's internal computer users to access the Internet but places severe limits on the ability of outsiders to access internal data is known as</text>
+<answer1>antivirus</answer1>
+<answer2>firewall</answer2>
+<answer3>access key</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The use of WANs for business-to-business and business-to-consumer transactions is called</text>
+<answer1>online banking</answer1>
+<answer2>online stock trading</answer2>
+<answer3>e-commerce</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is a security hole created on purpose thet can be exploited at a later time?</text>
+<answer1>A back door</answer1>
+<answer2>A trap door</answer2>
+<answer3>A hidden door</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>In a web browser, a mode of operation in which all communication to and from the server is encrypted is called</text>
+<answer1>secure mode</answer1>
+<answer2>encrypted mode</answer2>
+<answer3>private mode</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'GUID'?</text>
+<answer1>Graphical User Identification</answer1>
+<answer2>Global Universal Identification</answer2>
+<answer3>Global Unique Identifier</answer3>
+<correct>3</correct>
+</question>
+	
+<question>
+<text>An e-mail attachment</text>
+<answer1>is a computer file that is included with an e-mail message</answer1>
+<answer2>is an e-mail that contents a virus</answer2>
+<answer3>is an e-mail that contents an e-bill</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'SET' mean?</text>
+<answer1>Sony Entertainment Television</answer1>
+<answer2>Secure Electronic Transactions</answer2>
+<answer3>Secure Encryption Technology</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the 'cyberlaw'?</text>
+<answer1>A lawers' association in the Internet</answer1>
+<answer2>The countries new laws exposed in the Internet</answer2>
+<answer3>A new field designed to track developments in cybercrime</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Military strategy that targets an opponent's information systems is known as</text>
+<answer1>information strategy</answer1>
+<answer2>information warfare</answer2>
+<answer3>information destruction</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A program resembling a computer virus that can-spread over networks is called</text>
+<answer1>a worm</answer1>
+<answer2>a Trojan horse</answer2>
+<answer3>a macro virus</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'privacy' mean?</text>
+<answer1>The rigth to live your life without undue intrusions into your personal affairs by government agencies or corporate marketers</answer1>
+<answer2>The rigth to be an anonymous Internet user</answer2>
+<answer3>The rigth to have an e-signature</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>An antivirus program</text>
+<answer1>permits an organization's internal computer users to access the Internet but places severe limits on the ability of outsiders to access internal data</answer1>
+<answer2>is an utility that checks for and removes computer viruses from memory and disks</answer2>
+<answer3>destroy viruses through Internet</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Environmentally sensible computing is also called</text>
+<answer1>environment computing</answer1>
+<answer2>green computing</answer2>
+<answer3>clean computing</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A cookie is</text>
+<answer1>a message given to your Web browser by the Web server being accessed</answer1>
+<answer2>a dessert that your grandmother cooks very well</answer2>
+<answer3>a message given to you by other user of the net you are surfing</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>A cookie is</text>
+<answer1>a html file containing user preference information</answer1>
+<answer2>an image file containing user preference information</answer2>
+<answer3>a text file containing user preference information</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The procedure whereby separate databases are examined and individuals common to both are identified is also called</text>
+<answer1>computer matching</answer1>
+<answer2>computer searching</answer2>
+<answer3>computer monitoring</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'computer monitoring' mean?</text>
+<answer1>Observating and regulating the stock exchange evolution through the use of computers</answer1>
+<answer2>Observating and regulating illness people in hospitals through the use of computers</answer2>
+<answer3>Observating and regulating employee activities and job performance through the use of computers</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'footprint'?</text>
+<answer1>The floor or desktop space required for a hardware component</answer1>
+<answer2>The mark that leaves the printer in all the paper it uses</answer2>
+<answer3>The place occuped by the printer</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The evidence of unlawful entry or use of a computer system is called</text>
+<answer1>hacker evidence</answer1>
+<answer2>footprint</answer2>
+<answer3>exception</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does 'software piracy' mean?</text>
+<answer1>The use of software without permission</answer1>
+<answer2>The procces of hacking the web page of a software company</answer2>
+<answer3>The unlawful duplication of proprietary software</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'fault-tolerant' relate to?</text>
+<answer1>A computer system or network that is resistant to electrical problems</answer1>
+<answer2>A computer system or network that is resistant to software errors and hardware problems</answer2>
+<answer3>A computer system or network that is resistant to hackers' attacks</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'UPS'?</text>
+<answer1>Uninterruptible Power System</answer1>
+<answer2>Uninterruptible Power Supply</answer2>
+<answer3>Uninterruptible Power Source</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>A communications crime-prevention technology that uses methods of data encryption and decryption to scramble codes sent over communications channels is called</text>
+<answer1>hieroglyphic</answer1>
+<answer2>cryptography</answer2>
+<answer3>encoding</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>When data are encoded for security purposes</text>
+<answer1>they can be procccessed in that way</answer1>
+<answer2>it is better not to decode them for their use in order to avoid external attacks</answer2>
+<answer3>they must be decoded or deciphered to be used</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'SSL'?</text>
+<answer1>Secure Sockets Layer</answer1>
+<answer2>Solid State Logic</answer2>
+<answer3>System Specification Language</answer3>
+<correct>1</correct>
+</question>
+	
+<question>
+<text>What is the 'SSL'?</text>
+<answer1>A protocol developed by Microsoft for transmitting private documents via the Internet</answer1>
+<answer2>A protocol developed by Netscape for transmitting private documents via the Internet</answer2>
+<answer3>A protocol developed by Google for transmitting private documents via the Internet</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The legal equivalent of a personal signature on many documents is</text>
+<answer1>the full name and the passport number</answer1>
+<answer2>the full name</answer2>
+<answer3>the e-signature</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The logical security relates to</text>
+<answer1>user access to systems and data</answer1>
+<answer2>access to computers and peripheral devices</answer2>
+<answer3>Internet access</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The physical security relates to</text>
+<answer1>user access to systems and data</answer1>
+<answer2>access to computers and peripheral devices</answer2>
+<answer3>Internet access</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>How  is called the study of the relationships between people and machines?</text>
+<answer1>Informatics</answer1>
+<answer2>Robotics</answer2>
+<answer3>Ergonomics</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the 'digital ID'?</text>
+<answer1>The e-signature</answer1>
+<answer2>The nick of the person who sends the message</answer2>
+<answer3>A digital code that can be attached to an electronic message that uniquely identifies the sender</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>A poorly designed workplace has the potential to cause CTD What does 'CTD' mean?</text>
+<answer1>Cumulative Trauma Disorder</answer1>
+<answer2>Connective Tissue Disease</answer2>
+<answer3>Cubital Tunnel Syndrome</answer3>
+<correct>1</correct>
+</question>
+</blue>
+<orange>
+<question>
+<text>How many registers has the Java virtual machine?</text>
+<answer1>4</answer1>
+<answer2>16</answer2>
+<answer3>8</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Where does the name of 'Java' come from?</text>
+<answer1>It comes from the software engineer who creates it, called Robert Java</answer1>
+<answer2>It comes from a Pacific island</answer2>
+<answer3>It comes from a cup of coffee</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Where was developped Caml language?</text>
+<answer1>In France</answer1>
+<answer2>In the USA</answer2>
+<answer3>In Cameroon</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'COBOL' mean?</text>
+<answer1>Completely Obsolete Business-Oriented Language</answer1>
+<answer2>Common Business-Oriented Language</answer2>
+<answer3>Common Object Oriented Language</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which company developped Java?</text>
+<answer1>Microsoft</answer1>
+<answer2>Oracle</answer2>
+<answer3>Sun</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which is an instruction to reserve memory in C?</text>
+<answer1>malloc</answer1>
+<answer2>free</answer2>
+<answer3>memcpy</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'LISP' mean?</text>
+<answer1>Lots of Irritating Superfluous Parentheses</answer1>
+<answer2>List Processing</answer2>
+<answer3>Limited Instruction Set Processor</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does 'J2SDK 1.2' mean?</text>
+<answer1>Java language version 1.2 in year 2000</answer1>
+<answer2>Java language version 1.2 and API version 2.0</answer2>
+<answer3>Java plattform 2 and language and API version 1.2</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>How many general purpose registers has a MIPS R2xxx processor got?</text>
+<answer1>16</answer1>
+<answer2>32</answer2>
+<answer3>64</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Select the FALSE statement:</text>
+<answer1>Java is an hybrid, object-oriented language (OOL)</answer1>
+<answer2>Smalltalk is a 5-level OOL</answer2>
+<answer3>Simula 67 is considered the first OOL</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Before its launch, Windows XP was internally known as</text>
+<answer1>Chicago</answer1>
+<answer2>Whistler</answer2>
+<answer3>Viena</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT an AMD Athlon XP core codename?</text>
+<answer1>Palomino</answer1>
+<answer2>Barton</answer2>
+<answer3>Willamette</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the IEEE 754 single precision, floating point binary number structure?</text>
+<answer1>s1e8m23</answer1>
+<answer2>s1m23e8</answer2>
+<answer3>s1e7m24</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT a system benchmark?</text>
+<answer1>Altivec</answer1>
+<answer2>SPEC</answer2>
+<answer3>Dhrystone</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>In Fortran, how do you force the next iteration of a loop without GOTOs?</text>
+<answer1>You cannot</answer1>
+<answer2>Cycle</answer2>
+<answer3>Continue</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT a primitive type in Java?</text>
+<answer1>int</answer1>
+<answer2>String</answer2>
+<answer3>char</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does the neural network ART stand for?</text>
+<answer1>Adaptive Resonance Theory</answer1>
+<answer2>Adaptive Relative Transmissor</answer2>
+<answer3>Algorithm Repetition Theory</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The IEEE 1394 standard is also known as</text>
+<answer1>WiMax</answer1>
+<answer2>Bluetooth</answer2>
+<answer3>Firewire</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Why the original compact discs were exactly 74 minutes long?</text>
+<answer1>It is the length of the Beethoven's 9th symphony (slow version)</answer1>
+<answer2>It is equivalent to 650 MB, which can hold a complete electronic Bible with images</answer2>
+<answer3>Philips thought it was a nice number</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which was the successor to the BCPL programming language?</text>
+<answer1>C</answer1>
+<answer2>B</answer2>
+<answer3>PL</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The temporal complexity (on average) of insertion sorting algorithm is</text>
+<answer1>O(n^2)</answer1>
+<answer2>O(n)</answer2>
+<answer3>O(n*logn)</answer3>
+<correct>1</correct>
+</question>
+</orange>
+<green>
+<question>
+<text>Which are the stages of a computer-based information system?</text>
+<answer1>Birth, development, production and death</answer1>
+<answer2>Birth, development, production, installation, proof and death</answer2>
+<answer3>Development, production and death</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'ASP' mean?</text>
+<answer1>Active Server Page</answer1>
+<answer2>Applications Service Provider</answer2>
+<answer3>Authorized Service Provider</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>The structured system design is a design technique that encourages</text>
+<answer1>bottom-up design</answer1>
+<answer2>top-down design</answer2>
+<answer3>round design</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A design technique thet permits documentation of a system program at several levels of generality is</text>
+<answer1>a structure chart</answer1>
+<answer2>an entity relationship diagram</answer2>
+<answer3>a data flow diagram</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>A chart that graphically illustrates the conceptualization of an information system as a hiearachy of modules is</text>
+<answer1>a structure chart</answer1>
+<answer2>a flowchart</answer2>
+<answer3>a relationship chart</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The main program is also called</text>
+<answer1>subroutine</answer1>
+<answer2>driver module</answer2>
+<answer3>loop</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A group or sequence of instructions for a specific programming task that is called by another program is</text>
+<answer1>a driver module</answer1>
+<answer2>a loop</answer2>
+<answer3>a subroutine</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'CASE'?</text>
+<answer1>Computer-Aided Software Engineering</answer1>
+<answer2>Computer-Aided System Engineering</answer2>
+<answer3>Computer-Assisted Software Engineering</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>How is called a person who develops software products to bridge the gap between design and executable program code?</text>
+<answer1>Computer programmer</answer1>
+<answer2>Software engineer</answer2>
+<answer3>Software scientist</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A system development tool used to actually generate the system programming code based on design specifications is</text>
+<answer1>an application generator</answer1>
+<answer2>a code generator</answer2>
+<answer3>a prgram generator</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is a 'scalable system'?</text>
+<answer1>A system which is a model of a full-scale system</answer1>
+<answer2>A system whose design permits expansion to handle any size database or any number of users</answer2>
+<answer3>A system whose licence is free and can be distributed without paying</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does 'specs' mean?</text>
+<answer1>System specifications</answer1>
+<answer2>Software Professional Estimation and Collection System</answer2>
+<answer3>Software Professional Estimation and Collection Source</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Specifications that describe the logic of an information system from the user's perspective are</text>
+<answer1>system specifications</answer1>
+<answer2>user specifications</answer2>
+<answer3>functional specifications</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the meaning of 'RAD'?</text>
+<answer1>Recorded Announcement Device</answer1>
+<answer2>Rapid Application Development</answer2>
+<answer3>Realtime Agent Developer</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>An approach to system conversion whereby the existing system and the new system operate simultaneously prior to conversion is called</text>
+<answer1>parallel conversion</answer1>
+<answer2>direct conversion</answer2>
+<answer3>phased conversion</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>An approach to system conversion whereby an information system is implemented one module at a time is called</text>
+<answer1>parallel conversion</answer1>
+<answer2>phased conversion</answer2>
+<answer3>pilot conversion</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A language programmers use to communicate instructions to a computer is</text>
+<answer1>a software language</answer1>
+<answer2>a natural language</answer2>
+<answer3>a programming language</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does 'OOP' mean?</text>
+<answer1>Out-Of-Proccess</answer1>
+<answer2>Object-Oriented Programming</answer2>
+<answer3>Out of Print</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A high-level language whose general purpose instruction set can be used to produce a sequence of instructions to model scientific and business procedures is</text>
+<answer1>an object-oriented language</answer1>
+<answer2>a fourth-generation language</answer2>
+<answer3>procedure-oriented language</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Some examples of object-oriented languages are</text>
+<answer1>Java, Smalltalk and C++</answer1>
+<answer2>Java, SQL and LISP</answer2>
+<answer3>Java, Delphi and Simula</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does VR stand for?</text>
+<answer1>Visual Recognition</answer1>
+<answer2>Virtual Request</answer2>
+<answer3>Virtual Reality</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The typical industrial robot's mechanical arm is called...</text>
+<answer1>Bender</answer1>
+<answer2>Manipulator</answer2>
+<answer3>Grabber</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does AI mean?</text>
+<answer1>Adquired Intelligence</answer1>
+<answer2>Artificial Intelligence</answer2>
+<answer3>Artificial Interface</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does DBA stand for?</text>
+<answer1>DataBase Administrator</answer1>
+<answer2>DataBase Array</answer2>
+<answer3>Database Association</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT a IT job?</text>
+<answer1>CIO</answer1>
+<answer2>User Liaison</answer2>
+<answer3>PR</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does IT stand for?</text>
+<answer1>Industrial Technology</answer1>
+<answer2>Information Technology</answer2>
+<answer3>Intelligent Tecnology</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is a micropayment?</text>
+<answer1>A very small amount of e-money used as payment</answer1>
+<answer2>A way of getting services in XBOX Live</answer2>
+<answer3>A remote and automatic voice-guided transaction</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Industrial robots are NOT good at...</text>
+<answer1>Moving heavy loads</answer1>
+<answer2>Working in hazardous areas</answer2>
+<answer3>Solving creative problems</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does CIO stand for?</text>
+<answer1>Chief Information Officer</answer1>
+<answer2>Computer Instructor Officer</answer2>
+<answer3>Certified Intranet Operator</answer3>
+<correct>1</correct>
+</question>
+</green>
+<brown>
+<question>
+<text>What does IM stand for?</text>
+<answer1>Instant Messaging</answer1>
+<answer2>Instant Memory</answer2>
+<answer3>Information Management</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>When you get unsolicited e-mail, you are receiving...</text>
+<answer1>Spam</answer1>
+<answer2>Garbage</answer2>
+<answer3>Worms</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The computer equipment, which accept input and provide output is called</text>
+<answer1>Software</answer1>
+<answer2>Hardware</answer2>
+<answer3>Middleware</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does ISP stand for?</text>
+<answer1>Information Systems Provider</answer1>
+<answer2>Internet Superhighway Provider</answer2>
+<answer3>Internet Service Provider</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>The output on a computer can be routed to a...</text>
+<answer1>Printer</answer1>
+<answer2>Mouse</answer2>
+<answer3>Keyboard</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does the letter 'R' in RAM stand for?</text>
+<answer1>Rapid</answer1>
+<answer2>Random</answer2>
+<answer3>Raw</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What company introduced the original PC-compatible machine?</text>
+<answer1>Microsoft</answer1>
+<answer2>Xerox</answer2>
+<answer3>IBM</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>'Notebook' is another way of referring to...</text>
+<answer1>Laptops</answer1>
+<answer2>Desktop PCs</answer2>
+<answer3>Supercomputers</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The physical size and shape of hardware components is its...</text>
+<answer1>HSS</answer1>
+<answer2>Form factor</answer2>
+<answer3>Geometry</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of LAN?</text>
+<answer1>Local Access Network</answer1>
+<answer2>Large Area Network</answer2>
+<answer3>Local Area Network</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What does PDA stand for?</text>
+<answer1>Personal Design Application</answer1>
+<answer2>Personal Digital Assistant</answer2>
+<answer3>Private Desktop Application</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What does I/O mean?</text>
+<answer1>Input/Output</answer1>
+<answer2>Income/Outcome</answer2>
+<answer3>Inline/Online</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>'Wintel' is the combination of...</text>
+<answer1>Windows and Intelligent</answer1>
+<answer2>Windows and Television</answer2>
+<answer3>Windows and Intel</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of the following is NOT one of the major computer platforms?</text>
+<answer1>PC</answer1>
+<answer2>Sparc</answer2>
+<answer3>Mac</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>Data is usually entered via a...</text>
+<answer1>Keyboard</answer1>
+<answer2>Printer</answer2>
+<answer3>Modem</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does GUI stand for?</text>
+<answer1>Graphical User Interface</answer1>
+<answer2>Graphics Unit Interface</answer2>
+<answer3>Genuine User Interaction</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>Linux is an operating system based on</text>
+<answer1>Mac OS</answer1>
+<answer2>Windows</answer2>
+<answer3>UNIX</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of the following acronyms refers to a image file format?</text>
+<answer1>PCX</answer1>
+<answer2>OGG</answer2>
+<answer3>AAC</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The operating system used by Apple-made computers is called</text>
+<answer1>RISC OS</answer1>
+<answer2>OS/2 Warp</answer2>
+<answer3>Mac OS</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>A Windows session typically starts clicking the ___ button.</text>
+<answer1>Run</answer1>
+<answer2>Start</answer2>
+<answer3>Here-We-Go!</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is the meaning of OLE?</text>
+<answer1>Object Linking and Embedding</answer1>
+<answer2>Online Learning Environment</answer2>
+<answer3>Organizable Library of Elements</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is Windows CE designed for?</text>
+<answer1>Workstations</answer1>
+<answer2>Laptop computers</answer2>
+<answer3>Handheld devices</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>Which of the following features was present in MS-DOS?</text>
+<answer1>Multitasking</answer1>
+<answer2>Command-driven instructions</answer2>
+<answer3>Graphical icons</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is a template?</text>
+<answer1>A model for a particular software application</answer1>>
+<answer2>A pre-processed silicon wafer</answer2>
+<answer3>A simulator of certain computer architecture</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>The location of a particular file is called</text>
+<answer1>Path</answer1>
+<answer2>Cell</answer2>
+<answer3>Kernel</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>In the context of spreadsheet software, what is a cell?</text>
+<answer1>The location where a function definition is stored</answer1>
+<answer2>The intersection of a particular row and column</answer2>
+<answer3>The maximum size of a range</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>In raster graphics, the image is composed of</text>
+<answer1>Polygons</answer1>
+<answer2>Vectors</answer2>
+<answer3>Pixels</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is Lindows OS?</text>
+<answer1>A commercial Linux-based OS for PCs</answer1>
+<answer2>A freeware operating system recommended for legacy systems</answer2>
+<answer3>A high performance OS with state-of-the-art look and feel</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is freeware software?</text>
+<answer1>Copyright protected software that can be downloaded and used free of charge</answer1>
+<answer2>Non-Copyright protected software that can be used free of charge</answer2>
+<answer3>Software developed by prisoners under parole</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does MIDI stand for?</text>
+<answer1>Multiple Input for Digital Interfaces</answer1>
+<answer2>Musical Instrument Digital Interface</answer2>
+<answer3>Multimedia Interlocked Digital Input</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What is a wave file?</text>
+<answer1>A mutable file type</answer1>
+<answer2>A volatile file type</answer2>
+<answer3>A Windows sound file</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is an active window?</text>
+<answer1>A window in movement</answer1>
+<answer2>A window showing graphics and sound</answer2>
+<answer3>A window with which the user may interact</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is the desktop?</text>
+<answer1>The screen upon which icons, windows, etc. are displayed</answer1>
+<answer2>The part of a computer placed on a desk</answer2>
+<answer3>A segment of computer industry</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the meaning of multitasking?</text>
+<answer1>The concurrent execution of more than one program at time</answer1>
+<answer2>The ability an operating system has to managing several windows simultaneously</answer2>
+<answer3>The simultaneous launch of different instances of the same program</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is the main feature of the Unix OS family?</text>
+<answer1>Multithreaded</answer1>
+<answer2>Hacker-proof</answer2>
+<answer3>Multiuser</answer3>
+<correct>3</correct>
+</question>
+
+<question>
+<text>What is a shortcut key?</text>
+<answer1>A key combination that chooses an option without displaying the menu itself</answer1>
+<answer2>A metallic key to quickly shutdown the computer</answer2>
+<answer3>A code that enables an user to get the total control of a remote system</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What is an open application?</text>
+<answer1>A free of charge software</answer1>
+<answer2>An application that is running at this moment</answer2>
+<answer3>In the hacker jargon, a backdoor to a system</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>What kind of application software is Powerpoint?</text>
+<answer1>Presentation software</answer1>
+<answer2>Authoring software</answer2>
+<answer3>Spreadsheet software</answer3>
+<correct>1</correct>
+</question>
+
+<question>
+<text>What does 'ME' mean, in Windows ME?</text>
+<answer1>Mobile Edition</answer1>
+<answer2>Millennium Edition</answer2>
+<answer3>Miraculous Edition</answer3>
+<correct>2</correct>
+</question>
+
+<question>
+<text>A software application that not adheres to Windows standard is called</text>
+<answer1>Non-WHQL</answer1>
+<answer2>Bug-free application</answer2>
+<answer3>Non-Windows application</answer3>
+<correct>3</correct>
+</question>
+</brown>
+</deck>
